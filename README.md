@@ -1,5 +1,5 @@
 # GPU-Accelerated-Network-Traffic-Classifier
-# GPU-Accelerated Network Traffic Classifier
+
 
 A high-performance deep learning pipeline for real-time network intrusion detection, built with **PyTorch** and **custom CUDA kernels**. Classifies network traffic into 5 categories (Benign, DDoS, Port Scan, Brute Force, Web Attack) at line-rate speeds, achieving a **12x inference speedup** over CPU baselines.
 
